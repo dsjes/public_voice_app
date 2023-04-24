@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca6d763319553de1ac22bc546ed0bc33e9c20686576e86990dbdd632dfe5860
+size 96
+=======
+matplotlib
+streamlit==1.21.0
+pandas
+datetime
+matplotlib
+plotly
+wordcloud
+pymysql
+st_aggrid 
+time
+>>>>>>> 1ff2f3ad45bba620b1fe0849b28555380f79b57e
